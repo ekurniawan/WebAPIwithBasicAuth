@@ -12,6 +12,7 @@ using System.Web.Http.Filters;
 
 namespace SampleAPIBasicAuth.Filters
 {
+    //cara generate
     //pass generator https://www.base64encode.org/
     //cara panggil fiddler: Authorization: Basic ZXJpY2s6cmFoYXNpYWJybw==
     public class BasicAuthenticationAttribute : AuthorizationFilterAttribute

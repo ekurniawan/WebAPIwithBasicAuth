@@ -3,6 +3,7 @@ using System.Web.Mvc;
 
 namespace SampleAPIBasicAuth
 {
+    //
     public class FilterConfig
     {
         public static void RegisterGlobalFilters(GlobalFilterCollection filters)
